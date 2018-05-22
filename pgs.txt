@@ -1,0 +1,1034 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+  
+      
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="manifest" href="manifest.json" />
+
+  <!-- Fallback to homescreen for Chrome   <39 on Android -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="application-name" content="inshorts" />
+  <link rel="icon" sizes="192x192" href="https://assets.inshorts.com/website_assets/images/favicon.png" />
+
+  <!-- Add to homescreen for Safari on iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#424242" />
+  <meta name="apple-mobile-web-app-title" content="inshorts" />
+  <link rel="apple-touch-icon" href="https://assets.inshorts.com/website_assets/images/favicon.png" />
+
+  <!-- Tile icon for Win8 (144x144 + tile color) -->
+  <meta name="msapplication-TileImage" content="fav/favicon.png" />
+  <meta name="msapplication-TileColor" content="#424242" />
+
+  <meta name="theme-color" content="#424242" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="msapplication-navbutton-color" content="#424242" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#424242" />
+  <link rel="apple-touch-startup-image" href="https://assets.inshorts.com/website_assets/images/favicon.png" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="twitter:card" content="app" />
+  <meta name="twitter:site" content="@inshorts" />
+  <meta name="twitter:creator" content="@inshorts" />
+  <meta name="twitter:description" content="Inshorts delivers news in less than 60 words, containing only the essential facts, compromising on anything that is close to opinionating and storytelling." />
+  <meta name="twitter:app:country" content="IN" />
+  <meta name="twitter:app:name:iphone" content="Inshorts - Stay Informed" />
+  <meta name="twitter:app:id:iphone" content="892146527" />
+  <meta name="twitter:app:url:iphone" content="nis://news" />
+  <meta name="twitter:app:name:ipad" content="Inshorts - Stay Informed" />
+  <meta name="twitter:app:id:ipad" content="892146527" />
+  <meta name="twitter:app:url:ipad" content="nis://news" />
+  <meta name="twitter:app:name:googleplay" content="Inshorts - Stay Informed" />
+  <meta name="twitter:app:id:googleplay" content="com.nis.app" />
+  <meta name="twitter:app:url:googleplay" content="nis://news" />
+
+  <meta name="description" content="Read short news updates in less than 60 words with inshorts. All daily news updates related to business, sports, technology, India, world and entertainment in English with inshorts" />
+  <meta http-equiv="X-Frame-Options" content="deny" />
+  <link href="https://www.inshorts.com/en/read/" rel="canonical" />
+  <link href="https://www.inshorts.com/en/read/" rel="alternate" reflang="en" />
+  <meta name="apple-itunes-app" content="app-id=892146527" />
+  <meta name="google-play-app" content="app-id=com.nis.app" />
+
+  <title>Breaking News Headlines: Read All News Updates in English | Inshorts</title>
+  <!-- CSS  -->
+  <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css" />
+  <link href="https://fonts.googleapis.com/css?family=Hind:500,600,400&amp;subset=latin,devanagari" rel="stylesheet" type="text/css" />
+  <link href="/dist/styles/main.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="/dist/styles/index.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="/dist/styles/read.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="/dist/styles/news-card.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link rel="icon" type="image/png" href="https://assets.inshorts.com/website_assets/images/favicon.png" />
+  <link rel="manifest" href="/dist/manifest.json" />
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55157535-6', 'auto');
+  ga('send', 'pageview');  
+</script></head>
+
+
+<body>
+
+  
+  <!-- HEADER START -->
+  <div class="header z-depth-1">
+    <div class="menu clickable">
+      <button class="c-hamburger c-hamburger--htx"><span>toggle menu</span></button><span class="unselectable">Menu</span>
+    </div>
+    <!--
+    <div class="search-wrapper hide-on-small-only">
+      <input class="search-box" placeholder="Search" id="search"/>
+      <i id="search_icon" class="material-icons search-icon">search</i>
+      <div class="search-box-ul">&nbsp;</div>
+    </div>
+    -->
+    <a href="/"><img src="https://assets.inshorts.com/website_assets/images/logo_inshorts.png" class="logo" /></a>
+  </div>
+  <!-- HEADER END -->
+
+  
+<!--SIDEBAR START -->
+    <div class="hide-on-med-and-up sidebar-bg" style="display: none;"> </div>
+    <div class="sidebar" style="overflow-y: scroll;">
+      <div class="lang-bar" style="">
+        <div class="lang-selector clickable">
+          <a href="/en/read"><div class="lang-en selected">English</div></a>
+          <a href="/hi/read"><div class="lang-hi ">हिन्दी</div></a>
+        </div>
+      </div>
+
+      <div>
+        <div class="category-header">Categories</div>
+        <ul class="category-list">
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToAllNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToAllNews' });" href="/en/read"> <li class="active-category selected">All News</li> </a>
+
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToIndiaNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToIndiaNews' });" href="/en/read/national"> <li class="active-category ">India</li> </a>
+
+          <a onclick="ga(" send",="" {"hittype":="" "event",="" "eventcategory":="" "linktoindianews",="" "eventaction":="" "clicked",="" "eventlabel":="" "redirectedtoindianews"="" });"="" href="/en/read/business"> <li class="active-category ">Business</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkTosportsNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToSportsNews' });" href="/en/read/sports"> <li class="active-category ">Sports</li> </a>
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToworldNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToworldNews' });" href="/en/read/world"> <li class="active-category ">World</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToworldNews', 'eventAction': 'clicked',   'eventLabel': 'RedirectedToworldNews' });" href="/en/read/politics"> <li class="active-category ">Politics</li> </a>
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkTotechnologyNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedTotechnologyNews' });" href="/en/read/technology"> <li class="active-category ">Technology</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkTostartupNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedTostartupNews' });" href="/en/read/startup"> <li class="active-category ">Startup</li> </a>
+
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToEntertainmentNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToEntertainmentNews' });" href="/en/read/entertainment"> <li class="active-category ">Entertainment</li> </a>
+
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToMiscellaneousNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToMiscellaneousNews' });" href="/en/read/miscellaneous"> <li class="active-category ">Miscellaneous</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkTohatkeNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedTohatkeNews' });" href="/en/read/hatke"> <li class="active-category ">Hatke</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToscienceNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToscienceNews' });" href="/en/read/science"> <li class="active-category ">Science</li> </a>
+
+          <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToautomobileNews', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToautomobileNews' });" href="/en/read/automobile"> <li class="active-category ">Automobile</li> </a>
+
+        </ul>
+      </div>
+    </div>
+<!--SIDEBAR END -->
+
+  <!-- BODY START -->
+  <div class="container" style="min-height:550px;">
+    <div class="row" style="padding-top:110px;">
+
+      
+
+      
+      <div class="hide-on-med-and-down z-depth-1" style="margin-left : auto;margin-right : auto;margin-bottom: 32px;width : 900px;height:48px;background: #f44336">
+        <div style="font-weight: 300;color:white !important;font-size:14px;margin-left: 48px;margin-top: 13px;position: absolute;display: block;">
+          For the best experience use <a target="_blank" href="https://inshorts.com/mobile" style="color:white;appearance: none;font-weight: 500;">inshorts</a> app on your smartphone
+        </div>
+        
+        <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'DownloadApp', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToApplePlayStore' });" target="_blank" href="https://itunes.apple.com/us/app/news-in-shorts/id892146527"><img class="col l2 m2" src="https://assets.inshorts.com/website_assets/images/appstore.png" style="margin-top:5px;margin-left:550px;" /></a>
+        
+        
+        <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'DownloadApp', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToGooglePlayStore' });" target="_blank" href="https://play.google.com/store/apps/details?id=com.nis.app&amp;referrer=utm_source%3DNews%2520In%2520Shorts%2520Website"><img style="margin-top:5px;" class="col l2 m2" src="https://assets.inshorts.com/website_assets/images/playstore.png" /></a>
+        
+      </div>
+      
+      <div class="card-stack">
+        
+
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526033080831_852.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'IITian%20invested%20%E2%82%B910%20lakh%20in%20Flipkart%2C%20makes%20over%20%E2%82%B9100%20cr)' });" style="color:#44444d!important" href="/en/news/iitian-invested-₹10-lakh-in-flipkart-will-get-over-₹100-cr-1526037774541">
+      <span itemprop="headline">IITian invested ₹10 lakh in Flipkart, makes over ₹100 cr</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:22:54.000Z">04:52 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Angel investor Ashish Gupta, who invested ₹10 lakh in Flipkart in 2009, now stands to make over ₹134 crore from the startup's deal with Walmart. Gupta, a US citizen, is a PhD from Stanford University in California, and a computer science graduate from IIT Kanpur. Gupta sold his startup, a price comparison site, to Amazon for $240 million in 1998.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time">04:52 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Hindustan%20Times' });" target="_blank" href="https://www.hindustantimes.com/business-news/ashish-gupta-the-angel-investor-likely-to-make-20-million-from-flipkart-walmart-deal/story-queRXfEdhTKBPv0lnbN86M.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Hindustan Times</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526039753088_745.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Aishwarya%20Rai%20makes%20social%20media%20debut%20by%20joining%20Instagram)' });" style="color:#44444d!important" href="/en/news/aishwarya-rai-makes-social-media-debut-by-joining-instagram-1526043184539">
+      <span itemprop="headline">Aishwarya Rai makes social media debut by joining Instagram</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Prashanti Moktan</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:53:04.000Z">06:23 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Actress Aishwarya Rai Bachchan has made her debut on social media by joining the photo sharing app Instagram with the account named, 'aishwaryaraibachchan_arb'. While her description reads, "Miles to go before I sleep," the 44-year-old actress is yet to share her first post on the app. She joined social media ahead of her appearance at Cannes Film Festival 2018.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Prashanti Moktan</span> / 
+      <span class="time">06:23 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Times%20Now' });" target="_blank" href="http://www.timesnownews.com/entertainment/news/bollywood-news/article/cannes-film-festival-2018-aishwarya-rai-bachchan-leaves-for-the-french-riviera-with-daughter-aaradhya/226904?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Times Now</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526035962239_589.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Trailer%20of%20John%20Abraham%2C%20Diana%20Penty%20starrer%20'Parmanu'%20out)' });" style="color:#44444d!important" href="/en/news/trailer-of-john-abraham-diana-penty-starrer-parmanu-out-1526040301342">
+      <span itemprop="headline">Trailer of John Abraham, Diana Penty starrer 'Parmanu' out</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:05:01.000Z">05:35 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">The official trailer of John Abraham and Diana Penty starrer 'Parmanu: The Story of Pokhran' was released today on the 20th anniversary of the Pokhran Nuclear test. The film is based on the series of nuclear bomb test explosions conducted in Pokhran, Rajasthan in 1998. Directed by Abhishek Sharma, 'Parmanu: The Story of Pokhran' will release on May 25. </div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time">05:35 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'YouTube' });" target="_blank" href="https://www.youtube.com/watch?v=XQFb12N0Arc&amp;utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">YouTube</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526035477283_484.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Talk%20between%20Viru%2C%20me%20blown%20out%20of%20proportion%3A%20Preity%20Zinta)' });" style="color:#44444d!important" href="/en/news/talk-between-viru-me-blown-out-of-proportion-preity-zinta-1526041612655">
+      <span itemprop="headline">Talk between Viru, me blown out of proportion: Preity Zinta</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Dishant Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:26:52.000Z">05:56 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">After reports claimed that Kings XI Punjab owner Preity Zinta slammed team mentor Virender Sehwag following their loss against Rajasthan Royals, the actress tweeted that her conversation with Sehwag was "blown out of proportion". Zinta further added in her tweet that following the 'fake news' about her conversation with Sehwag, she has suddenly been made a "villain".</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Dishant Sharma</span> / 
+      <span class="time">05:56 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Twitter' });" target="_blank" href="https://twitter.com/realpreityzinta/status/994864344134553610?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet&amp;utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Twitter</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526033286932_468.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Identified%20captain%20in%20Dhoni%20while%20fielding%20at%20slips%3A%20Sachin)' });" style="color:#44444d!important" href="/en/news/identified-captain-in-dhoni-while-fielding-at-slips-sachin-1526040197204">
+      <span itemprop="headline">Identified captain in Dhoni while fielding at slips: Sachin</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:03:17.000Z">05:33 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Cricket legend Sachin Tendulkar, in a recent interview, revealed that he identified the captain in MS Dhoni while fielding at slips. "While fielding at slips, I would constantly ask Dhoni about the field setting...what the bowler should do...I would try and interact with him," he added. "I realised from those discussions that Dhoni was thinking differently," he further added.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">05:33 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'YouTube' });" target="_blank" href="https://www.youtube.com/watch?v=3zl-K4vIY-4&amp;utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">YouTube</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526031114108_410.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Flipkart%20deal%20opens%20opportunity%20for%201%20cr%20jobs%3A%20Walmart%20CEO)' });" style="color:#44444d!important" href="/en/news/flipkart-deal-opens-opportunity-for-1-cr-jobs-walmart-ceo-1526037633272">
+      <span itemprop="headline">Flipkart deal opens opportunity for 1 cr jobs: Walmart CEO</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:20:33.000Z">04:50 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">After acquiring 77% stake in Flipkart, Walmart's CEO Doug McMillon has said the deal opened an opportunity to generate 1 crore jobs over a period of years in India. McMillon had earlier said the decision to acquire the stake in Flipkart was among the best decisions Walmart has ever made. Walmart will pay $16 billion for the stake.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time">04:50 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Business%20Today' });" target="_blank" href="https://www.businesstoday.in/current/corporate/flipkart-walmart-jobs-deal-india-kirana-stores-ipo-binny-bansal/story/276571.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Business Today</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526039764025_466.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Land%20prices%20in%20China%20border%20town%20rise%20after%20Kim%20Jong-Un%20visit)' });" style="color:#44444d!important" href="/en/news/land-prices-in-china-border-town-rise-after-kim-jongun-visit-1526040577413">
+      <span itemprop="headline">Land prices in China border town rise after Kim Jong-Un visit</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:09:37.000Z">05:39 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Housing prices in the China-North Korea border city of Dandong rose by nearly 50% after North Korean leader Kim Jong-un's visit to the country, Chinese state media reported. Prices in some areas are reportedly increasing by nearly ₹3,200 a day, while volume of property deals is also rising. Much of the trade between the two countries is facilitated through Dandong.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time">05:39 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Bloomberg' });" target="_blank" href="https://www.bloomberg.com/news/articles/2018-05-09/north-korea-border-town-becomes-china-s-new-hot-property-market?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Bloomberg</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526038602467_352.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Israel%20lying%20about%20missile%20attacks%20on%20its%20territory%3A%20Iran)' });" style="color:#44444d!important" href="/en/news/israel-lying-about-missile-attacks-on-its-territory-iran-1526042238128">
+      <span itemprop="headline">Israel lying about missile attacks on its territory: Iran</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:37:18.000Z">06:07 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Denying claims of firing rockets at the Israel-occupied territory of Golan Heights, Iran has said that Israel's accusations were "fabricated" and "baseless". Israel on Thursday launched air strikes against Iranian military targets in Syria in response to the attacks. It was the most extensive military confrontation between the two countries in recent times.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time">06:07 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Al%20Jazeera' });" target="_blank" href="https://www.aljazeera.com/news/middleeast/2018/05/iran-israeli-claims-fabricated-baseless-180511063809142.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Al Jazeera</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526037496433_271.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Man%20changes%20global%20shipping%20firm's%20address%20to%20own%20house)' });" style="color:#44444d!important" href="/en/news/man-changes-global-shipping-firms-address-to-own-house-1526037561001">
+      <span itemprop="headline">Man changes global shipping firm's address to own house</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Arshiya Chopra</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:19:21.000Z">04:49 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">A man in United States has been booked for changing the address of global shipping company UPS to that of his own apartment in Chicago. The man has been charged with theft and fraud as various mails, including top executives' American Express cards, were delivered to his address. The accused had worked as a package handler for UPS in 2012.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Arshiya Chopra</span> / 
+      <span class="time">04:49 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'The%20Guardian' });" target="_blank" href="https://www.theguardian.com/us-news/2018/may/11/man-changed-address-of-ups-headquarters-to-his-own-apartment?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">The Guardian</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526029664296_607.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'I%20don't%20know%20direction%2C%20will%20never%20be%20able%20to%20do%20that%3A%20Big%20B)' });" style="color:#44444d!important" href="/en/news/i-dont-know-direction-will-never-be-able-to-do-that-big-b-1526038216392">
+      <span itemprop="headline">I don't know direction, will never be able to do that: Big B</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Deepshikha Yadav</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:30:16.000Z">05:00 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Amitabh Bachchan has said that he does not know direction and will never be able to do that. "I always wanted to know why and what goes through a director's mind when he has to place a camera in a particular angle and position," he added. In his career, Bachchan has also produced films and even sang and composed songs.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Deepshikha Yadav</span> / 
+      <span class="time">05:00 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Koimoi' });" target="_blank" href="http://www.koimoi.com/bollywood-news/amitabh-bachchan-ill-never-be-able-to-do-direction/?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Koimoi</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526034063798_262.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'First%20look%20of%20Manoj%20Bajpayee's%20'Bhonsle'%20unveiled%20at%20Cannes)' });" style="color:#44444d!important" href="/en/news/first-look-of-manoj-bajpayees-bhonsle-unveiled-at-cannes-1526037782936">
+      <span itemprop="headline">First look of Manoj Bajpayee's 'Bhonsle' unveiled at Cannes</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Deepshikha Yadav</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:23:02.000Z">04:53 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">The first look of Manoj Bajpayee starrer 'Bhonsle' has been unveiled at this year's Cannes Film Festival. "This (Cannes) is a great platform from where we can let the world know about the film," said Bajpayee. Directed by Devashish Makhija, the film revolves around the vulnerability of north Indian migrants in Mumbai.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Deepshikha Yadav</span> / 
+      <span class="time">04:53 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Hindustan%20Times%20' });" target="_blank" href="https://www.hindustantimes.com/hollywood/manoj-bajpayee-returns-to-cannes-unveils-first-look-of-bhonsle/story-WCxztyanIkmGwwWWHezMSJ.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Hindustan Times </a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526036963117_884.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Rape%20and%20death%20threats%20cannot%20be%20allowed%20on%20Twitter%3A%20Farhan)' });" style="color:#44444d!important" href="/en/news/rape-and-death-threats-cannot-be-allowed-on-twitter-farhan-1526037012330">
+      <span itemprop="headline">Rape and death threats cannot be allowed on Twitter: Farhan</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:10:12.000Z">04:40 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Actor Farhan Akhtar, in a tweet, wrote that rape and death threats cannot be allowed on Twitter. "Top management at Twitter must regroup and decide what they would like their service to be remembered for," he added. His tweet comes after actress Richa Chadha shared screenshots of death and rape threats that she had received on Twitter.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time">04:40 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Hindustan%20Times' });" target="_blank" href="https://www.hindustantimes.com/bollywood/rape-and-death-threats-cannot-be-allowed-on-twitter-says-farhan-akhtar/story-PbuQNVOEAGGPAebZ3TJbcJ.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Hindustan Times</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526040670400_639.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Jacqueline%20Fernandez%20meets%20with%20car%20accident%2C%20escapes%20unhurt)' });" style="color:#44444d!important" href="/en/news/jacqueline-fernandez-meets-with-car-accident-escapes-unhurt-1526040732156">
+      <span itemprop="headline">Jacqueline Fernandez meets with car accident, escapes unhurt</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:12:12.000Z">05:42 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Actress Jacqueline Fernandez's car met with an accident on Thursday at around 2:45 am when she was returning home after partying with the 'Race 3' team at Salman Khan's apartment. The driver had smashed the car to an auto-rickshaw, resulting in damage to the car. "The rickshaw driver was drunk...We are fine. Police came and sorted it out," said Jacqueline.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time">05:42 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'IB%20Times' });" target="_blank" href="https://www.ibtimes.co.in/jacqueline-fernandez-suffers-car-accident-after-party-salman-khans-galaxy-apartment-768894?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">IB Times</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526034486058_433.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Student%20writes%20his%20resume%20as%20Marvel%20character%20'Groot')' });" style="color:#44444d!important" href="/en/news/student-writes-his-resume-as-marvel-character-groot-1526040012566">
+      <span itemprop="headline">Student writes his resume as Marvel character 'Groot'</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:00:12.000Z">05:30 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">An American student wrote his resume and cover letter as 'Groot', after his teacher asked the students to write resumes and cover letters as Marvel characters. The student's assignment had 'I am Groot' written against every entry, including name, address, email ID and qualifications. 'Groot' is an "anthropomorphic tree-man" who only speaks or responds with the words 'I am Groot'.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Daisy Mowke</span> / 
+      <span class="time">05:30 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Hindustan%20Times' });" target="_blank" href="https://www.hindustantimes.com/hollywood/give-this-kid-an-a-this-student-wrote-his-resume-as-groot-and-it-s-brilliant/story-eK7PPX5Svk5xtODeddlBOL.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Hindustan Times</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526042216107_545.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Video%20shows%20Nita%20Ambani%20chanting%20mantras%20during%20MI%20match)' });" style="color:#44444d!important" href="/en/news/video-shows-nita-ambani-chanting-mantras-during-mi-match-1526042974769">
+      <span itemprop="headline">Video shows Nita Ambani chanting mantras during MI match</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:49:34.000Z">06:19 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">A video of Mumbai Indians' owner Nita Ambani praying and chanting mantras while sitting in the stands during an Indian Premier League match has surfaced online. In the video, the person sitting next to Nita can be seen telling her the score after which she smiles. Mumbai Indians are currently fourth on the IPL 2018 points table.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">06:19 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'India.com' });" target="_blank" href="http://www.india.com/sports/ipl-2018-why-mumbai-indians-are-winning-internet-and-whatsapp-is-breaking-over-a-video-that-has-gone-viral-3046973/?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">India.com</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526040478593_471.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Sensex%2C%20Nifty%20close%20at%203-month%20high%20ahead%20of%20Karnataka%20polls)' });" style="color:#44444d!important" href="/en/news/sensex-nifty-close-at-3month-high-ahead-of-karnataka-polls-1526040521202">
+      <span itemprop="headline">Sensex, Nifty close at 3-month high ahead of Karnataka polls</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Radhika Chugh</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:08:41.000Z">05:38 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">India's benchmark indices Sensex and Nifty closed at a three-month high on Friday, a day ahead of the Karnataka Assembly polls. While Sensex rose 289.52 points to close at 35,535, Nifty increased by 89.95 points to close at 10,806. Additionally, 76% stocks in the Nifty closed in the positive zone.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Radhika Chugh</span> / 
+      <span class="time">05:38 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Livemint' });" target="_blank" href="https://www.livemint.com/Home-Page/TfRsKm8y06rfC0wnVSTHEM/Market-Live-Sensex-rises-130-points-Nifty-above-10750-Bh.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Livemint</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526035637358_162.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Pay%20attention%20to%20Pant%3A%20Suniel%20Shetty%20to%20selectors%20post%20ton)' });" style="color:#44444d!important" href="/en/news/pay-attention-to-pant-suniel-shetty-to-selectors-post-ton-1526041099279">
+      <span itemprop="headline">Pay attention to Pant: Suniel Shetty to selectors post ton</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:18:19.000Z">05:48 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Following Delhi Daredevils' wicketkeeper-batsman Rishabh Pant's hundred against SunRisers Hyderabad on Thursday, actor Suniel Shetty urged Team India selectors to pay attention to the youngster. "Pant...Pant... Pant... Take A Bow! ATTENTION selectors Team INDIA!!!" Shetty tweeted. Pant, who has been selected in the India A squad, slammed 128*(63) including 7 sixes and 15 fours against SRH.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">05:48 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Twitter' });" target="_blank" href="https://twitter.com/SunielVShetty/status/994618260531433473?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.crictracker.com%2Fipl-2018-actor-suniel-shetty-asks-selectors-pay-attention-rishabh-pant%2F&amp;tfw_site=cricketracker&amp;utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Twitter</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526029789588_218.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Cricketer%20beats%2060%20lakh%20people%20to%20win%20fantasy%20football%20round)' });" style="color:#44444d!important" href="/en/news/cricketer-beats-60-lakh-people-to-win-fantasy-football-round-1526036571766">
+      <span itemprop="headline">Cricketer beats 60 lakh people to win fantasy football round</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:02:51.000Z">04:32 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">England's second-highest Test wicket-taker Stuart Broad beat nearly 60 lakh people to win the Gameweek 37 round of the Fantasy Premier League. The pacer managed 180 points in the round, nine more than the second-placed competitor. The 31-year-old took to social media to joke that the feat rivalled his career-best Test bowling figures of 8/15, achieved during the 2015 Ashes.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">04:32 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Twitter%20' });" target="_blank" href="https://twitter.com/OfficialFPL/status/994709261673484288?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.businessinsider.com.au%2Fenglish-cricketer-stuart-broad-just-beat-six-million-fantasy-premier-league-players-2018-5&amp;tfw_creator=FarkersFarkers&amp;tfw_site=BIAUS&amp;utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Twitter </a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526041571961_160.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Colony%20aunty%20would%20be%20mad%20at%20me%20for%20breaking%20windows%3A%20Kohli%20)' });" style="color:#44444d!important" href="/en/news/colony-aunty-would-be-mad-at-me-for-breaking-windows-kohli-1526041685662">
+      <span itemprop="headline">Colony aunty would be mad at me for breaking windows: Kohli </span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:28:05.000Z">05:58 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">RCB captain Virat Kohli has revealed there was a "Kansal aunty" in his colony during his childhood, whose house windows he used to break all the time. "Her house was right next to where we'd bat...I'd be so mad these glasses were so fragile. Why couldn't they make it stronger so we could play in peace," he added.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">05:58 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'India%20Today' });" target="_blank" href="https://www.indiatoday.in/sports/cricket/story/when-a-colony-aunty-was-mad-at-virat-kohli-for-breaking-her-windows-1231484-2018-05-11?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">India Today</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526037457843_349.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Heartbreaking%20that%20my%20sons%20don't%20play%20football%3A%20Beckham)' });" style="color:#44444d!important" href="/en/news/heartbreaking-that-my-sons-dont-play-football-beckham-1526041587384">
+      <span itemprop="headline">Heartbreaking that my sons don't play football: Beckham</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Dishant Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:26:27.000Z">05:56 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Former England and Manchester United captain David Beckham revealed in a talk show that it is "heartbreaking" that none of his three sons play football despite being talented. The 43-year-old also revealed that his six-year-old daughter Harper plays the sport and he gets very enthusiastic while watching her play the sport. "It's down to Harper now," Beckham said.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Dishant Sharma</span> / 
+      <span class="time">05:56 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Twitter' });" target="_blank" href="https://twitter.com/TheGNShow/status/994201354947133440?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Twitter</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526039661918_504.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'I%20don't%20use%20right%20index%20finger%20for%20decisions%3A%20Umpire%20Dar)' });" style="color:#44444d!important" href="/en/news/i-dont-use-right-index-finger-for-decisions-umpire-dar-1526043547430">
+      <span itemprop="headline">I don't use right index finger for decisions: Umpire Dar</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:59:07.000Z">06:29 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Pakistani cricket umpire Aleem Dar has said that he doesn't use his right-hand index finger for making decisions during cricket matches as the finger has a special place in Islam. "It's used to denote the unity of Allah and I do not want to use that finger for cricket as you can make incorrect decisions," Dar explained.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Anmol Sharma</span> / 
+      <span class="time">06:29 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Times%20Now' });" target="_blank" href="http://www.timesnownews.com/sports/cricket/cricket-news/article/dont-think-any-player-can-come-near-virat-kohli-at-the-moment-pakistan-umpire-aleem-dar/226424?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Times Now</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526028024501_468.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'SoftBank%20still%20considering%20selling%20Flipkart%20stake%3A%20Reports)' });" style="color:#44444d!important" href="/en/news/softbank-still-considering-selling-flipkart-stake-reports-1526037311633">
+      <span itemprop="headline">SoftBank still considering selling Flipkart stake: Reports</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:15:11.000Z">04:45 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">Japanese conglomerate SoftBank is still considering if it should sell its reported 20-22% stake in Indian e-commerce startup Flipkart to Walmart, as per reports. SoftBank CEO Masayoshi Son will take a call in the next 7-10 days, the reports added. SoftBank, which invested $2.5 billion in Flipkart last year, would sell the stake for $4 billion, reports had earlier suggested.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Aditi Verma</span> / 
+      <span class="time">04:45 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'Hindustan%20Times' });" target="_blank" href="https://www.hindustantimes.com/business-news/softbank-said-to-be-rethinking-flipkart-exit-capital-gains-tax-key-concern/story-aUZPTSGydFlXNzeCXuSOtN.html?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">Hindustan Times</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526038836696_279.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Fathers%20of%20Lord%20Ram%20and%20Sita%20united%20India%20and%20Nepal%3A%20PM%20Modi)' });" style="color:#44444d!important" href="/en/news/fathers-of-lord-ram-and-sita-united-india-and-nepal-pm-modi-1526040423368">
+      <span itemprop="headline">Fathers of Lord Ram and Sita united India and Nepal: PM Modi</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Radhika Chugh</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T12:07:03.000Z">05:37 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">During his two-day visit to Nepal, PM Narendra Modi said Indo-Nepal relationship dates back to 'Treta Yug', adding that Lord Ram's father King Dashratha and Sita's father King Janak had united the two countries. "History is proof that whenever there is a problem, India &amp; Nepal stand together," he added. He further said India's faith is incomplete without Nepal.</div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Radhika Chugh</span> / 
+      <span class="time">05:37 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'ANI' });" target="_blank" href="https://twitter.com/ANI/status/994844526312349696?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">ANI</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526032573131_824.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': 'Won't%20disrupt%20supply%20of%20water%20to%20Delhi%3A%20Haryana%20govt%20to%20SC)' });" style="color:#44444d!important" href="/en/news/wont-disrupt-supply-of-water-to-delhi-haryana-govt-to-sc-1526037066446">
+      <span itemprop="headline">Won't disrupt supply of water to Delhi: Haryana govt to SC</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Bulbul Dhawan</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:11:06.000Z">04:41 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">The Haryana government will not disrupt the supply of Yamuna water to New Delhi till the Supreme Court decides on the matter, it told the apex court on Friday. Haryana had earlier this month told the SC that the water in the Yamuna river has decreased by a quarter this year, which will affect Delhi, Haryana, and Uttar Pradesh. </div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Bulbul Dhawan</span> / 
+      <span class="time">04:41 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'ANI' });" target="_blank" href="https://www.aninews.in/news/national/general-news/haryana-govt-tells-sc-it-will-not-disrupt-supply-of-water-to-delhi201805111413380001/?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">ANI</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+
+<div class="">
+<div class="news-card z-depth-1" itemscope="" itemtype="http://schema.org/NewsArticle">
+  <div class="news-card-image" style="background-image: url('https://assets.inshorts.com/app_assets/images/2018/11may/inshorts_image_1526036569351_574.jpg?resize=400px:*')">
+  </div>
+  <div class="news-card-title news-right-box">
+    <a class="clickable" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'TitleOfNews', 'eventAction': 'clicked', 'eventLabel': ''He's%20dying%20anyway'%3A%20WH%20aide%20mocks%20cancer-stricken%20Senator)' });" style="color:#44444d!important" href="/en/news/hes-dying-anyway-wh-aide-mocks-cancerstricken-senator-1526036622475">
+      <span itemprop="headline">'He's dying anyway': WH aide mocks cancer-stricken Senator</span>
+    </a>
+    <div class="news-card-author-time news-card-author-time-in-title">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time" itemprop="datePublished" content="2018-05-11T11:03:42.000Z">04:33 pm</span> on <span clas="date">11 May 2018,Friday</span>
+    </div>
+  </div>
+  <div class="news-card-content news-right-box">
+    <div itemprop="articleBody">White House aide Kelly Sadler reportedly mocked cancer-stricken US Senator John McCain's opposition to CIA director nominee Gina Haspel, saying "it doesn’t matter" because "he's dying anyway". The Republican Senator from Arizona has been diagnosed with brain cancer. CIA director nominee Haspel has been facing opposition over her involvement in the torture of al-Qaeda suspects after 9/11. </div>
+    <div class="news-card-author-time news-card-author-time-in-content">
+      <span class="short">short</span> by <span class="author">Nandini Sinha</span> / 
+      <span class="time">04:33 pm</span> on <span clas="date">11 May</span>
+    </div>
+  </div>
+  
+    <div class="news-card-footer news-right-box">
+      <div class="read-more">read more at <a class="source" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'ReadMore', 'eventAction': 'clicked', 'eventLabel': 'The%20Guardian' });" target="_blank" href="https://www.theguardian.com/us-news/2018/may/10/john-mccain-white-house-aide-hes-dying-anyway?utm_source=inshorts&amp;utm_medium=referral&amp;utm_campaign=fullarticle ">The Guardian</a></div>
+    </div>
+  
+</div>
+
+  
+</div>
+
+      </div>
+      
+      
+      <div class="load-more-wrapper">
+        <div id="load-more-btn" onclick="loadMoreNews()" class="clickable unselectable load-more z-depth-1 hoverable" style="display: none;">Load More</div>
+        <div id="load-more-gif" style="" class="clickable unselectable load-more"><img id="load-more-gif" src="https://assets.inshorts.com/website_assets/images/ajax-loader.gif" /></div>
+      </div>
+      
+
+      
+      <div class="my-red app-download-pane  hide-on-large-only">
+        <div class="container">
+          <div class="row">
+            <div class="col s12 center" style="color:white;font-weight: 300;font-size:14px;margin-top: 28px;margin-bottom: 18px;">
+              For the best experience use <a target="_blank" href="/mobile" style="color:white;appearance: none;font-weight: 500;">inshorts</a> app on your smartphone
+            </div>
+            
+            
+            <div class="col offset-s2 s8">
+              <a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'DownloadApp', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToGooglePlayStore' });" target="_blank" href="https://play.google.com/store/apps/details?id=com.nis.app&amp;referrer=utm_source%3DNews%2520In%2520Shorts%2520Website"><img class="col l4 m8 s12" src="https://assets.inshorts.com/website_assets/images/playstore.png" /></a>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      
+
+    </div>
+  </div>
+  <!-- BODY END -->
+
+  <footer class="page-footer teals"> 
+  <div class="container">
+    <div class="row" style="margin-bottom: 0px; padding-bottom: 5px;">
+
+      <div class="col offset-l3 l3 m4 s12 right social-admin">
+        <div class="social-share"><a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToFaceBookPage', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToFaceBook' });" target="_blank" href="https://www.facebook.com/inshortsapp"><img src="https://assets.inshorts.com/website_assets/images/facebook.png" /></a></div>
+        <div class="social-share"><a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToTwitterPage', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToTwitter' });" target="_blank" href="https://twitter.com/inshorts"><img src="https://assets.inshorts.com/website_assets/images/twitter.png" /></a></div>
+        <div class="social-share"><a onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToLinkedinPage', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToLinkedin' });" target="_blank" href="https://www.linkedin.com/company/news-in-shorts"><img src="https://assets.inshorts.com/website_assets/images/linkedin.png" /></a></div>
+      </div>
+
+
+      <div class="col m4 l3 s6 footer-left-pane">
+        <div class="right"><img width="160px" height="48px" src="https://assets.inshorts.com/website_assets/images/logo_footer.png" /></div>
+
+        <div class="copy-text">
+          <span><span style="color:#cfcfcf;font-family: 'Conv_ClanPro-Bold'">inshorts</span> medialabs pvt. ltd.</span><br />
+          ©<span style="font-size:12px">COPYRIGHT 2017</span>
+        </div>
+      </div>
+      <div class="col m4 l3 s6 footer-right-pane">
+        <div class="left clickable" style="margin-top: -5px;"><a target="_blank" href="mailto:contact@inshorts.com?subject=Inshorts%20website%20contact%20form"><img width="132px" height="48px" src="https://assets.inshorts.com/website_assets/images/contact_icon.png" /></a></div>              
+        <div class="terms-text">
+          <a class="tnc" style="color: #fff;" onclick="ga('send', {'hitType': 'event', 'eventCategory': 'LinkToTermsAndConditionsAndPP', 'eventAction': 'clicked', 'eventLabel': 'RedirectedToTermsAndConditions' });" target="_blank" href="/tnc"><span>Terms &amp; conditions</span><br />
+          <span>Privacy Policies</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  <!-- Eliminate render-blocking JavaScript and CSS in above-the-fold content -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
+  
+  <script type="text/javascript" src="/dist/scripts/index.js"></script>
+  <script type="text/javascript" src="/dist/scripts/read.js"></script>
+  <script src="/dist/scripts/jquery.scrolldepth.min.js"></script>
+  <script type="text/javascript">
+
+    var min_news_id = "qoevwqrg-1";
+    function loadMoreNews(){
+      $("#load-more-btn").hide();
+      $("#load-more-gif").show();
+      $.post("/en/ajax/more_news",{'category':'','news_offset':min_news_id},function(data){
+          data = JSON.parse(data);
+          min_news_id = data.min_news_id||min_news_id;
+          $(".card-stack").append(data.html);
+      })
+      .fail(function(){alert("Error : unable to load more news");})
+      .always(function(){$("#load-more-btn").show();$("#load-more-gif").hide();});
+    }
+    jQuery.scrollDepth();
+  </script>
+
+  <!-- Eliminate render-blocking JavaScript and CSS in above-the-fold content -->
+
+
+
+<div class="hiddendiv common"></div></body></html>
